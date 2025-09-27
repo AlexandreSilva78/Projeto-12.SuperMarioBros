@@ -1,0 +1,47 @@
+@media (max-width: 1000px) {
+
+    header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+    }
+
+    header img {
+        display: none;
+    }
+
+    main {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        gap: 20px;
+        padding: 10px;
+    }
+
+    p {
+        display: none;
+    }
+
+    button {
+        border-radius: 30px;
+        width: 270px;
+        height: 90px;
+        font-size: 30px;
+    }
+
+    article {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+        width: 90%;
+    }
+
+    .mario-luigi {
+        height: 360px;
+    }
+
+
+
+}
