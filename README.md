@@ -1,6 +1,6 @@
 # 🍄 Mario & Luigi - Encanadores Especializados
 
-![Preview do Site](preview.png)
+![Preview do Site](https://alexandresilva78.github.io/Projeto-12.SuperMarioBros/)
 
 Site responsivo para empresa de serviços de encanamento com tema do Super Mario Bros, oferecendo uma experiência divertida e profissional para clientes que precisam de assistência hidráulica.
 <div align="center">
